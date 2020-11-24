@@ -9,3 +9,4 @@
 
 Logo abaixo você poderá adicionar seu nome a lista com o link para seu github
 - [Clécius J. Martinkoski](https://github.com/cleciusjm)
+- [Bruno Henrique S. Pereira](https://github.com/brunohsp)
